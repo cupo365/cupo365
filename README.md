@@ -9,12 +9,10 @@ Maybe one of my solutions can help you?<br><br>
 - [Enhanced Power Automate Command Set](https://github.com/cupo365/enhanced-power-automate-command-set)
 - [Enhanced Power Apps Embed Webpart](https://github.com/cupo365/enhanced-power-apps-embed)
 <br>
-<br>
 
 ## <img title="Power Apps logo" src="resources/power-apps-logo.png" alt="Power Apps logo" width="30" height="30" style="margin-right:5px;" /> Power Apps<br>
 
 - [Enhanced Power Apps Embed Webpart](https://github.com/cupo365/enhanced-power-apps-embed)
-<br>
 <br>
 
 ## <img title="Power Automate logo" src="resources/power-automate-logo.png" alt="Power Automate logo" width="30" height="30" style="margin-right:5px;" /> Power Automate<br>
@@ -22,11 +20,10 @@ Maybe one of my solutions can help you?<br><br>
 - [Enhanced Power Automate Command Set](https://github.com/cupo365/enhanced-power-automate-command-set)
 - [Automated App Registration Secret Expiration Notifier](https://github.com/cupo365/app-registration-secrets-expiration-notifier)
 <br>
-<br>
+
 ## <img title="Microsoft Azure logo" src="resources/power-automate-logo.png" alt="Microsoft Azure logo" width="30" height="30" style="margin-right:5px;" /> Microsoft Azure<br>
 
 - [Automated App Registration Secret Expiration Notifier](https://github.com/cupo365/app-registration-secrets-expiration-notifier)
-<br>
 <br>
 
 ## Want to know more about me? Here are some links
