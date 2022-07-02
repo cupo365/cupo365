@@ -13,6 +13,7 @@ Maybe one of my solutions can help you?<br><br>
 ## <img title="Power Apps logo" src="resources/power-apps-logo.png" alt="Power Apps logo" width="30" height="30" style="margin-right:5px;" /> Power Apps<br>
 
 - [Enhanced Power Apps Embed Webpart](https://github.com/cupo365/enhanced-power-apps-embed)
+- [Theme Aware Power App](https://github.com/cupo365/theme-aware-power-app)
 <br>
 
 ## <img title="Power Automate logo" src="resources/power-automate-logo.png" alt="Power Automate logo" width="30" height="30" style="margin-right:5px;" /> Power Automate<br>
