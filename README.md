@@ -19,6 +19,7 @@ Maybe one of my solutions can help you?<br><br>
 
 - [Enhanced Power Automate Command Set](https://github.com/cupo365/enhanced-power-automate-command-set)
 - [Automated App Registration Secret Expiration Notifier](https://github.com/cupo365/app-registration-secrets-expiration-notifier)
+- [Default Power Automate flow template with error handling](https://github.com/cupo365/default-flow-with-error-handling)
 <br>
 
 ## <img title="Microsoft Azure logo" src="resources/power-automate-logo.png" alt="Microsoft Azure logo" width="30" height="30" style="margin-right:5px;" /> Microsoft Azure<br>
@@ -27,6 +28,5 @@ Maybe one of my solutions can help you?<br><br>
 <br>
 
 ## Want to know more about me? Here are some links
-- [Website](https://cupo365.gg)
 - [Contact me](mailto:info@cupo365.gg)
 - [LinkedIn](https://www.linked.com/in/lennart-dewaart)
