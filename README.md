@@ -19,13 +19,13 @@ Maybe one of my solutions can help you?<br><br>
 ## <img title="Power Automate logo" src="resources/power-automate-logo.png" alt="Power Automate logo" width="30" height="30" style="margin-right:5px;" /> Power Automate<br>
 
 - [Enhanced Power Automate Command Set](https://github.com/cupo365/enhanced-power-automate-command-set)
-- [Automated App Registration Secret Expiration Notifier](https://github.com/cupo365/app-registration-secrets-expiration-notifier)
+- [AAD App Registration Credential Checker](https://github.com/cupo365/aad-app-registration-credential-checker)
 - [Default Power Automate flow template with error handling](https://github.com/cupo365/default-flow-with-error-handling)
 <br>
 
 ## <img title="Microsoft Azure logo" src="resources/azure-logo.png" alt="Microsoft Azure logo" width="30" height="30" style="margin-right:5px;" /> Microsoft Azure<br>
 
-- [Automated App Registration Secret Expiration Notifier](https://github.com/cupo365/app-registration-secrets-expiration-notifier)
+- [AAD App Registration Credential Checker](https://github.com/cupo365/aad-app-registration-credential-checker)
 <br>
 
 ## Want to know more about me? Here are some links
