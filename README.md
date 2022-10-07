@@ -31,4 +31,4 @@ Maybe one of my solutions can help you?<br><br>
 
 ## Want to know more about me? Here are some links
 - [Contact me](mailto:info@cupo365.gg)
-- [LinkedIn](https://www.linked.com/in/lennart-dewaart)
+- [LinkedIn](https://www.linkedin.com/in/lennart-dewaart)
