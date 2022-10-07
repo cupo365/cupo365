@@ -6,7 +6,7 @@ Hi there! My name is Len, but i go by [cup o'365](https://github.com/cupo365). I
 Maybe one of my solutions can help you?<br><br>
 ## <img title="SharePoint logo" src="resources/sharepoint-logo.png" alt="SharePoint logo" width="30" height="30" style="margin-right:5px;" /> SharePoint<br>
 
-- [Enhanced Flow Command Set](https://github.com/cupo365/enhanced-flow-command-set)
+- [Enhanced Flow Trigger Command Set](https://github.com/cupo365/enhanced-flow-command-set)
 - [Enhanced Power Apps Embed Webpart](https://github.com/cupo365/enhanced-power-apps-embed)
 <br>
 
@@ -18,7 +18,7 @@ Maybe one of my solutions can help you?<br><br>
 
 ## <img title="Power Automate logo" src="resources/power-automate-logo.png" alt="Power Automate logo" width="30" height="30" style="margin-right:5px;" /> Power Automate<br>
 
-- [Enhanced Flow Command Set](https://github.com/cupo365/enhanced-flow-command-set)
+- [Enhanced Flow Trigger Command Set](https://github.com/cupo365/enhanced-flow-command-set)
 - [AAD App Registration Credential Checker](https://github.com/cupo365/aad-app-registration-credential-checker)
 - [Default Power Automate flow template with error handling](https://github.com/cupo365/default-flow-with-error-handling)
 <br>
