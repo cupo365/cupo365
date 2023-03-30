@@ -15,6 +15,7 @@ Stay hydrated and be sure to look around. Maybe one of my projects can help or i
 
 - [Enhanced Power Apps Embed Webpart](https://github.com/cupo365/enhanced-power-apps-embed)
 - [Team Collaboration Day Planner](https://github.com/cupo365/team-collaboration-day-planner)
+<br>
 
 ## <img title="Power Automate logo" src="resources/power-automate-logo.png" alt="Power Automate logo" width="30" height="30" style="margin-right:5px;" /> Power Automate<br>
 
